@@ -77,10 +77,7 @@ function filtrarPorAutor(){
             console.log(liLibros);
             contenedor.appendChild(liAutor)
             contenedor.appendChild(liLibros)
-
-            // al buscar dejar el campo vacio y color verde si fue correcto
-            buscar.value = "";
-            buscar.style.backgroundColor="#77dd77"; 
+                      
         } 
     }
 }
