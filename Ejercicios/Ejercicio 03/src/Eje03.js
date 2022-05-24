@@ -9,7 +9,7 @@ boton.addEventListener("click", function(){
         let imagenUrl = data.icon_url;
         
         
-        h2.innerHTML = ("Chiste de Chuck : "+objeto);
+        h2.innerHTML = ("Chiste del dios Chuck : "+objeto);
 
     })
 })

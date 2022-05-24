@@ -13,6 +13,6 @@
   "author": "Plataforma 5",
   "license": "ISC",
   "dependencies": {
-    "testem": "^1.18.4"
+    "testem": "^0.3.30"
   }
 }
